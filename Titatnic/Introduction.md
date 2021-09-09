@@ -1,4 +1,5 @@
 # 타이타닉 생존자 예측
+![titanic](https://user-images.githubusercontent.com/69240893/132626842-eac06036-0ded-4dc1-9234-5bba04723aff.PNG)
 캐글 처음 시작하면 누구나, 모두가 권장하는 Competition인 타이타닉 생존자 예측에 대해 혼자 해본 내용입니다.
 
 # OverView

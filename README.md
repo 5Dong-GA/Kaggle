@@ -3,6 +3,10 @@
 
 ❗︎ 응애, 애기 수준이니 노약자는 조심
 
+# Handling Missing Values(NAN)
+- Kaggle에서 진행하는 Tabular Playground Series Competition에서 끝도 없는 고찰중
+- 지식이 늘었다!
+
 # Data Preprocessing
 - 공부중
 - 결측치, 이상치 handling

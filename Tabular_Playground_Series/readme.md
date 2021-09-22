@@ -19,3 +19,7 @@
 # Kaggle Score
 - 1000/1500 .... Feature Engineering 없이 XGBClassifier로 원본데이터 그대로 돌려서 제출            
 - 0.764로 나쁘지는 않지만 Feature Engineering + Outlier Imputation or Removal 해봐야 알듯
+
+# XGBCLassifier
+- SimpleImputer, IterativeImputer -> mean, median, iterative imputer로 NaN값 대치
+- HyperParameter 통해 Score 향상 기대중

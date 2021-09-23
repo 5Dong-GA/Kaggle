@@ -23,3 +23,5 @@
 # XGBCLassifier
 - SimpleImputer, IterativeImputer -> mean, median, iterative imputer로 NaN값 대치
 - HyperParameter 통해 Score 향상 기대중
+- GridSearchCV를 통해 HyperParameter tuning을 하려 하였으나 계속해서 Kaggle에서 제공해주는 RAM이 터지는 현상이 발생
+- 이와 관련하여 R에서 주로 사용하는 data.table library등의 RAM에 부하가 적게 가는 방법을 찾아보는중 -> 불가능한듯...
